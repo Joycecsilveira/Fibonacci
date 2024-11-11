@@ -1,0 +1,7 @@
+C:\Users\joyce.silveira\source\repos\Finonacci\Finonacci\bin\Debug\Finonacci.exe.config
+C:\Users\joyce.silveira\source\repos\Finonacci\Finonacci\bin\Debug\Finonacci.exe
+C:\Users\joyce.silveira\source\repos\Finonacci\Finonacci\bin\Debug\Finonacci.pdb
+C:\Users\joyce.silveira\source\repos\Finonacci\Finonacci\obj\Debug\Finonacci.csprojAssemblyReference.cache
+C:\Users\joyce.silveira\source\repos\Finonacci\Finonacci\obj\Debug\Finonacci.csproj.CoreCompileInputs.cache
+C:\Users\joyce.silveira\source\repos\Finonacci\Finonacci\obj\Debug\Finonacci.exe
+C:\Users\joyce.silveira\source\repos\Finonacci\Finonacci\obj\Debug\Finonacci.pdb
